@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/opt/goinfre/sreanna/maze/src/build/Maze_autogen",
+	"CMAKE_BINARY_DIR" : "/opt/goinfre/sreanna/maze/src/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/opt/goinfre/sreanna/maze/src/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/opt/goinfre/sreanna/maze/src",
+	"CMAKE_SOURCE_DIR" : "/opt/goinfre/sreanna/maze/src",
+	"INCLUDE_DIR" : "/opt/goinfre/sreanna/maze/src/build/Maze_autogen/include",
+	"INPUTS" : [ "/opt/goinfre/sreanna/maze/src/qrc/icon.svg" ],
+	"LOCK_FILE" : "/opt/goinfre/sreanna/maze/src/build/CMakeFiles/Maze_autogen.dir/AutoRcc_res_UD7UKI5KT2_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "UD7UKI5KT2",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/usr/local/share/qt/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/opt/goinfre/sreanna/maze/src/build/CMakeFiles/Maze_autogen.dir/AutoRcc_res_UD7UKI5KT2_Used.txt",
+	"SOURCE" : "/opt/goinfre/sreanna/maze/src/qrc/res.qrc",
+	"VERBOSITY" : 0
+}
